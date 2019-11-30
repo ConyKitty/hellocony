@@ -1,2 +1,3 @@
 print('hello')
-print('world')
+print('fantastic world')
+print('Git in visual studio code')
